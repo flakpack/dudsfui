@@ -13,3 +13,6 @@ while True:
         print("Podana przez Ciebie liczba jest mniejsza od 0")
     elif int(liczba) > 0:
         print("Podana przez Ciebie liczba jest większa od 0")
+#asugsdf
+#$$
+#@
