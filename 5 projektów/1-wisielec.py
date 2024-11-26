@@ -66,7 +66,10 @@ while True:
 
     game_status()
 
-    
+
+
+
+
 #zakazac powtarzania liter
 #weryfikowac input uzytkownika zrobione
 #lista slow do odgadywania i tak by sie nie powtarzaly
